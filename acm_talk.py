@@ -1,3 +1,12 @@
+"""
+ACM DEMO SKILL
+
+Designed by Pat Cody, April 2018
+
+This is a demo skil designed to illustrate the Alexa skill development process.
+"""
+
+
 #This is the function that is first called by AWS, needs to respond
 #to the different event types
 def lambda_handler(event, context):
